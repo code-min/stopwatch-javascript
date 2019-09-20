@@ -1,0 +1,41 @@
+body {
+    margin: 0;
+    font-family: 'Raleway';
+    text-align: center;
+}
+
+h1 {
+    background: black;
+    color: white;
+    margin: 0;
+    margin-bottom: 30px;
+    padding: 25px;
+    font-size: 40px;
+}
+
+p {
+    font-size: 150px;
+    font-family: 'Helvetica';
+    margin-bottom: 100px;
+}
+
+button {
+    height: 150px;
+    width: 150px;
+    border-radius: 50%;
+    font-size: 20px;
+    color: white;
+    border: none;
+    font-weight: bold;
+    outline: none;
+    font-family: 'Helvetica';
+}
+
+.btn-start {
+    margin-right: 30px;
+    background-color: #4CAF50;
+}
+
+.btn-reset {
+    background-color: #8edcf6;
+}
